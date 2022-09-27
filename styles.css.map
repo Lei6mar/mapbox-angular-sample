@@ -1,0 +1,1 @@
+{"version":3,"sources":["./src/styles.css"],"names":[],"mappings":";AACA;IACI,WAAW;IACX,YAAY;AAChB;;AAEA;IACI,eAAe;IACf,SAAS;IACT,UAAU;IACV,WAAW;AACf,C","file":"styles.css","sourcesContent":["\nhtml, body{\n    width: 100%;\n    height: 100%;\n}\n\napp-menu {\n    position: fixed;\n    top: 20px;\n    left: 20px;\n    z-index: 10;\n}"],"sourceRoot":"webpack:///"}
